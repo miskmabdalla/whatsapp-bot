@@ -1,0 +1,29 @@
+2023/09/05-14:49:07.562 12f07 Reusing MANIFEST /Users/whiskymisky/Desktop/Whatsapp_Web/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/09/05-14:49:07.579 12f07 Recovering log #19
+2023/09/05-14:49:07.749 12f07 Reusing old log /Users/whiskymisky/Desktop/Whatsapp_Web/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000019.log 
+2023/09/05-14:49:24.897 1681f Level-0 table #24: started
+2023/09/05-14:49:24.931 1681f Level-0 table #24: 1086565 bytes OK
+2023/09/05-14:49:24.951 1681f Delete type=0 #19
+2023/09/05-14:49:25.496 1e603 Compacting 1@1 + 1@2 files
+2023/09/05-14:49:25.608 1e603 Generated table #25@1: 47220 keys, 2004115 bytes
+2023/09/05-14:49:25.608 1e603 Compacted 1@1 + 1@2 files => 2004115 bytes
+2023/09/05-14:49:25.618 1e603 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/05-14:49:25.619 1e603 Delete type=2 #21
+2023/09/05-14:49:25.619 1e603 Delete type=2 #24
+2023/09/05-14:50:36.734 1e013 Level-0 table #27: started
+2023/09/05-14:50:36.762 1e013 Level-0 table #27: 1123812 bytes OK
+2023/09/05-14:50:36.776 1e013 Delete type=0 #23
+2023/09/05-14:50:39.027 1e013 Compacting 1@1 + 1@2 files
+2023/09/05-14:50:39.129 1e013 Generated table #28@1: 50945 keys, 2174745 bytes
+2023/09/05-14:50:39.129 1e013 Compacted 1@1 + 1@2 files => 2174745 bytes
+2023/09/05-14:50:39.135 1e013 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/09/05-14:50:39.136 1e013 Delete type=2 #27
+2023/09/05-14:50:39.136 1e013 Delete type=2 #25
+2023/09/05-14:51:48.134 1e603 Level-0 table #30: started
+2023/09/05-14:51:48.255 1e603 Level-0 table #30: 1150478 bytes OK
+2023/09/05-14:51:48.265 1e603 Delete type=0 #26
+2023/09/05-14:51:48.596 1e603 Compacting 1@1 + 1@2 files
+2023/09/05-14:51:48.699 1e603 Generated table #31@1: 49480 keys, 2218115 bytes
+2023/09/05-14:51:48.708 1e603 Generated table #32@1: 2829 keys, 63056 bytes
+2023/09/05-14:51:48.708 1e603 Compacted 1@1 + 1@2 files => 2281171 bytes
+2023/09/05-14:51:48.724 1e603 compacted to: files[ 0 0 2 0 0 0 0 ]
